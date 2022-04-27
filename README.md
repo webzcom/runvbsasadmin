@@ -17,3 +17,7 @@ Now you're ready to run the script!
 Right click the run_as_admin.cmd file and select "Run as Administrator".
 
 Enter your Administrator credentials if prompted or approve if prompted. 
+
+You should see a message box from the executed VBScript! 
+
+Replace my msgbox code with the code you want to run as admin or change the name of the vbscript file reference in the CMD file to point to your own VBScript file.
