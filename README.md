@@ -6,6 +6,10 @@ Save the files to your Windows computer.
 
 Select the vbs and cmd file > Right Click > Select Properties
 
+If you don't do this next step, you'll probably get a Windows sercrity warning about the files you've downloaded. 
+
+This is normal for any files you download.
+
 Select "Unblock" to unblock Windows security for downloaded files.
 
 Right click the run_as_admin.cmd file and select "Run as Administrator".
