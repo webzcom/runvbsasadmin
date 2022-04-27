@@ -4,9 +4,9 @@ Run VBScript as an Administrator Demo.
 
 Save the files to your Windows computer.
 
-Select the vbs and cmd file > Right Click > Select Properties
+If you don't do this next step, you'll probably get a Windows sercrity warning about the files you've downloaded when you try to execute them. 
 
-If you don't do this next step, you'll probably get a Windows sercrity warning about the files you've downloaded. 
+Select the vbs and cmd files > Right Click > Select Properties
 
 This is normal for any files you download.
 
